@@ -1,0 +1,16 @@
+.project-title {
+  margin: 0;
+  text-align: center;
+  /* background: url(../images/wave.png); */
+  padding: 20px;
+  color: black;
+}
+
+.projects {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  min-height: 500px;
+}
